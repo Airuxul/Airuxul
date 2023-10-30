@@ -1,4 +1,4 @@
-<p align="center"><img src="https://count.getloli.com/get/@:Airuxul?theme=gelbooru-h" width="400"></p><br>
+<p align="center"><img src="https://count.getloli.com/get/@:Airuxul?theme=gelbooru" width="400"></p><br>
 
 
 ### ⌨️ Skill
