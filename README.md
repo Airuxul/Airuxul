@@ -7,6 +7,6 @@
 
 ## 📊 Profile stats
 <a href="https://github.com/Airuxul">
-  <img height="270em" src="https://github-readme-stats.vercel.app/api?username=Airuxul&theme=dracula" />
-  <img height="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Airuxul&theme=dracula" />
+  <img height="240em" src="https://github-readme-stats.vercel.app/api?username=Airuxul&theme=dracula" />
+  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Airuxul&theme=dracula" />
 </a>
