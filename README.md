@@ -1,13 +1,12 @@
-<p align="center"><img src="https://count.getloli.com/get/@:Airuxul?theme=gelbooru" width="400"></p><br>
+<p align="center"><img src="https://moe-counter.anjiurine.top/get/@Airuxul?theme=asoul" width="400"></p>
 
-
-### ⌨️ Skill
+## ⌨️ Skill
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,py,unity,vscode" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,py,unity" />
 </a>
 
-### 📊 Profile stats
+## 📊 Profile stats
 <a href="https://github.com/Airuxul">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Airuxul&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Airuxul&theme=dracula" />
+  <img height="270em" src="https://github-readme-stats.vercel.app/api?username=Airuxul&theme=dracula" />
+  <img height="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Airuxul&theme=dracula" />
 </a>
